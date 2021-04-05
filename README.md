@@ -1,6 +1,5 @@
 Benchmarking blockchain-based gene-drug interaction data sharing methods: A Case Study of the iDASH 2019 Secure Genome Analysis Competition Track 1
-
-------------------------------------------------------------------------
+---
 
 ### Authors
 
