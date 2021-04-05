@@ -17,7 +17,7 @@ Tsung-Ting Kuo<sup>1, *, †</sup>, Tyler Bath<sup>1, *</sup>, Shuaicheng Ma<sup
 
 ### Introduction
 
-This is the code for the [iDASH 2019 Secure Genome Analysis Competition Track 1](http://www.humangenomeprivacy.org/2019/competition-tasks.html). The three methods, Query Index, Index Everything, and Multi-level Contract Scheme, are located in its corresponding folder. The data and more information can be found in our [competition website](http://www.humangenomeprivacy.org/2019/competition-tasks.html)
+This is the code for the [iDASH 2019 Secure Genome Analysis Competition Track 1](http://www.humangenomeprivacy.org/2019/competition-tasks.html). The three methods, Query Index, Index Everything, and Multi-level Contract Scheme, are located in its corresponding folder. The data and more information can be found in our [competition website](http://www.humangenomeprivacy.org/2019/competition-tasks.html).
 
 ### Contact
 
